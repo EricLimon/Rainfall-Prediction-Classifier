@@ -19,7 +19,7 @@ This project analyzes and predicts weather data from the Australian Bureau of Me
 
 ## Getting Started
 
-1.  **Download the dataset:** From the Australian Bureau of Meteorology website or from the next url: `git clone [repository URL]` https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package?resource=download&select=weatherAUS.csv
+1.  **Download the dataset:** From the Australian Bureau of Meteorology website or from the next url: `git clone [https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package?resource=download&select=weatherAUS.csv]` 
 2.  **Open the Jupyter Notebook:** Use Alligator (or your preferred environment) to open and execute the `.ipynb` file.
 
 ## Instructions
