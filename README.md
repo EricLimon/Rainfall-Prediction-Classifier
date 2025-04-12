@@ -34,3 +34,4 @@ This project analyzes and predicts weather data from the Australian Bureau of Me
 * Machine Learning Libraries (e.g., scikit-learn)
 * Data Visualization Libraries (e.g., matplotlib, seaborn)
 
+**Thank you for exploring this project!**
