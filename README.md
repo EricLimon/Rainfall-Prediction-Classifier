@@ -19,9 +19,8 @@ This project analyzes and predicts weather data from the Australian Bureau of Me
 
 ## Getting Started
 
-1.  **Clone the repository:** `git clone [repository URL]`
-2.  **Download the dataset:** From the Australian Bureau of Meteorology website.
-3.  **Open the Jupyter Notebook:** Use Alligator (or your preferred environment) to open and execute the `.ipynb` file.
+1.  **Download the dataset:** From the Australian Bureau of Meteorology website.
+2.  **Open the Jupyter Notebook:** Use Alligator (or your preferred environment) to open and execute the `.ipynb` file.
 
 ## Instructions
 
@@ -35,8 +34,3 @@ This project analyzes and predicts weather data from the Australian Bureau of Me
 * Machine Learning Libraries (e.g., scikit-learn)
 * Data Visualization Libraries (e.g., matplotlib, seaborn)
 
-## Potential Improvements
-
-* Interactive visualizations for better data exploration.
-* Time series analysis for future weather forecasting.
-* Deployment of a web application to display weather predictions.
